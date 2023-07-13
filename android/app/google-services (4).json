@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "229568751687",
+    "project_id": "business-hub-project",
+    "storage_bucket": "business-hub-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229568751687:android:598861a5fd8475a840e962",
+        "android_client_info": {
+          "package_name": "com.example.untitled6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229568751687-qqlolruj55okidkdt7ak2n71i4qkfgl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_LERE4-55VfcFT7YOxq9Y8txOAvyfitU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229568751687-qqlolruj55okidkdt7ak2n71i4qkfgl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
